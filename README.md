@@ -1,4 +1,8 @@
 # welcome-from-mysterious-Django
+
+https://github.com/WaThoneKyaw/welcome-from-mysterious-Django/assets/62678144/7d837998-c6fe-404c-bc34-00fd22cbc2cb
+
+
 This was the moke app wtth project-level and app-level
 
 python -m venv eg-env ##create virtual env
