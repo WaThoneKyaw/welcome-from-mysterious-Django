@@ -22,3 +22,4 @@ create manage.py startapp eg.name ## create a new Django app /app-level Structur
 
 
 don't forget to add 'eg.name' to settings.py Locate the 'INSTALLED_APPS" lists
+![Screenshot (26)](https://github.com/WaThoneKyaw/welcome-from-mysterious-Django/assets/62678144/e6727ca3-8e9a-444c-8913-c9208f732d33)
