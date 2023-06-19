@@ -8,7 +8,7 @@ This was the moke app wtth project-level and app-level
 python -m venv eg-env ##create virtual env
 
 
-./eg-env/scripts/active 3#activate virtual environment for window users
+./eg-env/scripts/activate 3#activate virtual environment for window users
 
 deactivate ##exit virtual env if you want to
 
